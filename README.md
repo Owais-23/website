@@ -1,10 +1,7 @@
-# phineas.io
+Sadaath Foundation Website
 
-This is the React app that runs on [phineas.io](https://phineas.io).
-
-## "Stack"
+"Stack"
 
 - create-react-app
 - styled-components
 - TypeScript
-- [Cloudflare Pages](https://pages.cloudflare.com)
